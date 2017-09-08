@@ -15,6 +15,7 @@
     "react-dom": "^15.6.1",
     "react-router": "^4.2.0",
     "react-scripts": "^1.0.13",
-    "video.js": "^6.2.7"
-  }
+    "video.js": "^6.2.7",
+    "videojs-chromecast": "^2.0.8"
+    }
 }
