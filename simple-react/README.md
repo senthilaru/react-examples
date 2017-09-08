@@ -9,7 +9,7 @@ npm install react react-dom react-router react-scripts express --save
 mkdir src
 mkdir public
 touch src/index.js
-touch src/index.html
+touch public/index.html
 
 ```
 
